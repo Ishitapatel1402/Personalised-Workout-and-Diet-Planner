@@ -1,0 +1,102 @@
+age,gender,height,weight,bmi,activity_level,goal
+22,Male,175,85,27.76,Moderately Active,Weight Loss
+25,Female,160,55,21.48,Lightly Active,Maintenance
+20,Male,180,65,20.06,Sedentary,Muscle Gain
+23,Female,165,70,25.71,Sedentary,Weight Loss
+21,Male,170,75,25.95,Very Active,Muscle Gain
+24,Male,178,90,28.41,Lightly Active,Weight Loss
+26,Female,158,48,19.23,Moderately Active,Maintenance
+22,Male,182,72,21.74,Very Active,Muscle Gain
+20,Female,162,58,22.10,Lightly Active,Maintenance
+25,Male,175,95,31.02,Sedentary,Weight Loss
+23,Female,168,65,23.03,Moderately Active,Maintenance
+21,Male,185,78,22.79,Very Active,Muscle Gain
+24,Female,155,52,21.64,Lightly Active,Maintenance
+22,Male,172,88,29.75,Lightly Active,Weight Loss
+26,Male,180,82,25.31,Moderately Active,Muscle Gain
+20,Female,160,62,24.22,Sedentary,Weight Loss
+25,Male,176,70,22.60,Very Active,Muscle Gain
+23,Female,165,68,24.98,Moderately Active,Maintenance
+21,Male,178,92,29.03,Sedentary,Weight Loss
+24,Female,163,56,21.08,Lightly Active,Maintenance
+22,Male,183,75,22.40,Moderately Active,Muscle Gain
+26,Female,157,50,20.28,Very Active,Maintenance
+20,Male,175,100,32.65,Sedentary,Weight Loss
+25,Female,168,72,25.51,Lightly Active,Weight Loss
+23,Male,181,85,25.95,Moderately Active,Muscle Gain
+21,Female,159,54,21.36,Lightly Active,Maintenance
+24,Male,177,80,25.55,Very Active,Muscle Gain
+22,Female,164,66,24.54,Moderately Active,Maintenance
+26,Male,179,93,29.00,Sedentary,Weight Loss
+20,Female,161,60,23.14,Lightly Active,Maintenance
+25,Male,184,78,23.03,Very Active,Muscle Gain
+23,Female,166,70,25.40,Moderately Active,Weight Loss
+21,Male,173,86,28.74,Lightly Active,Weight Loss
+24,Male,180,74,22.84,Moderately Active,Muscle Gain
+22,Female,162,58,22.10,Very Active,Maintenance
+26,Male,176,95,30.67,Sedentary,Weight Loss
+20,Female,158,53,21.22,Lightly Active,Maintenance
+25,Male,182,83,25.07,Moderately Active,Muscle Gain
+23,Female,167,67,24.01,Very Active,Maintenance
+21,Male,174,89,29.39,Sedentary,Weight Loss
+24,Female,160,64,25.00,Lightly Active,Weight Loss
+22,Male,185,77,22.49,Very Active,Muscle Gain
+26,Female,165,69,25.32,Moderately Active,Maintenance
+20,Male,178,96,30.31,Sedentary,Weight Loss
+25,Female,163,57,21.45,Lightly Active,Maintenance
+23,Male,179,81,25.28,Moderately Active,Muscle Gain
+21,Female,156,51,20.96,Very Active,Maintenance
+24,Male,181,87,26.58,Moderately Active,Muscle Gain
+22,Female,168,73,25.86,Lightly Active,Weight Loss
+26,Male,175,98,32.00,Sedentary,Weight Loss
+20,Female,164,59,21.94,Moderately Active,Maintenance
+25,Male,183,76,22.69,Very Active,Muscle Gain
+23,Female,161,63,24.31,Lightly Active,Maintenance
+21,Male,177,91,29.04,Sedentary,Weight Loss
+24,Male,180,79,24.38,Moderately Active,Muscle Gain
+22,Female,159,55,21.76,Very Active,Maintenance
+26,Female,166,71,25.76,Lightly Active,Weight Loss
+20,Male,176,85,27.44,Lightly Active,Weight Loss
+25,Female,165,66,24.24,Moderately Active,Maintenance
+23,Male,184,82,24.21,Very Active,Muscle Gain
+21,Female,162,61,23.24,Lightly Active,Maintenance
+24,Male,178,94,29.68,Sedentary,Weight Loss
+22,Female,160,57,22.27,Moderately Active,Maintenance
+26,Male,182,84,25.35,Moderately Active,Muscle Gain
+20,Female,157,52,21.10,Lightly Active,Maintenance
+25,Male,175,88,28.73,Sedentary,Weight Loss
+23,Female,169,74,25.90,Lightly Active,Weight Loss
+21,Male,180,73,22.53,Very Active,Muscle Gain
+24,Female,164,65,24.17,Moderately Active,Maintenance
+22,Male,179,89,27.77,Lightly Active,Weight Loss
+26,Female,161,56,21.61,Very Active,Maintenance
+20,Male,177,80,25.54,Moderately Active,Muscle Gain
+25,Female,163,62,23.33,Lightly Active,Maintenance
+23,Male,181,97,29.62,Sedentary,Weight Loss
+21,Female,158,54,21.63,Lightly Active,Maintenance
+24,Male,176,76,24.54,Moderately Active,Muscle Gain
+22,Female,167,68,24.37,Very Active,Maintenance
+26,Male,183,92,27.47,Sedentary,Weight Loss
+20,Female,160,59,23.05,Lightly Active,Maintenance
+25,Male,178,81,25.56,Moderately Active,Muscle Gain
+23,Female,165,72,26.45,Lightly Active,Weight Loss
+21,Male,175,87,28.41,Sedentary,Weight Loss
+24,Female,162,60,22.86,Moderately Active,Maintenance
+22,Male,180,77,23.77,Very Active,Muscle Gain
+26,Female,159,53,20.96,Lightly Active,Maintenance
+20,Male,184,99,29.24,Sedentary,Weight Loss
+25,Female,166,69,25.04,Moderately Active,Maintenance
+23,Male,179,83,25.90,Very Active,Muscle Gain
+21,Female,161,58,22.38,Lightly Active,Maintenance
+24,Male,177,90,28.73,Lightly Active,Weight Loss
+22,Female,164,67,24.90,Moderately Active,Maintenance
+26,Male,181,86,27.80,Moderately Active,Muscle Gain
+20,Female,158,55,22.03,Very Active,Maintenance
+25,Male,176,93,30.02,Sedentary,Weight Loss
+23,Female,165,70,25.71,Lightly Active,Weight Loss
+21,Male,182,75,22.64,Very Active,Muscle Gain
+24,Female,160,63,24.61,Moderately Active,Maintenance
+22,Male,178,88,27.76,Sedentary,Weight Loss
+26,Female,163,57,21.45,Lightly Active,Maintenance
+20,Male,175,78,25.47,Moderately Active,Muscle Gain
+25,Female,168,71,25.16,Very Active,Maintenance

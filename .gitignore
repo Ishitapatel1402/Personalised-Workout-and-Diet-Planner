@@ -24,7 +24,7 @@ wheels/
 *.egg
 
 # Machine Learning Models
-fitness_model.pkl
+# fitness_model.pkl  # Uncomment this after training to exclude model from git
 
 # Jupyter Notebooks
 .ipynb_checkpoints
